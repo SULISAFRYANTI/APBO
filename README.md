@@ -1,10 +1,5 @@
 # APBO - SISTEM DAYCARE
-Daycare adalah layanan yang menyediakan perawatan dan pengawasan bagi anak-anak usia bayi 
-hingga pra sekolah saat orang tua atau wali mereka bekerja ataupun memiliki keperluan lain.
-Layanan utama daycare secara garis besar meliputi penyediaan kebutuhan anak makan, minum, 
-tidur siang, dan mengganti popok. Menawarkan aktivitas bermain dan belajar yang sesuai dengan 
-usia anak untuk mendukung perkembangan kognitif, fisik, sosial, dan emosional. 
-
+Pengertian jasa daycare adalah tempat penitipan anak yang dikelola oleh pihak-pihak tertentu dan memiliki berbagai fasilitas. Tempat ini sering dipilih oleh para orang tua yang bekerja dan tidak memiliki kerabat atau asisten rumah tangga yang dapat menggantikan mereka. 
 # Aktor yang terlibat
 1. Pemilik Daycare
 2. Admin 
