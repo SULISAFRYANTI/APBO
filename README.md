@@ -8,3 +8,8 @@ Pengertian jasa daycare adalah tempat penitipan anak yang dikelola oleh pihak-pi
 
 # Use case 
 https://drive.google.com/file/d/1xLs5AxeTm2m8vy6alJ4Q3xuxmIBgvST-/view?usp=sharing
+
+# Diagram Class DayCare
+https://drive.google.com/file/d/1pD_7_Tkw5UkV9BPQB5f8tWE8sipMtV0A/view?usp=sharing
+
+# ERD DayCare
