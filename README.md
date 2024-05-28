@@ -13,3 +13,4 @@ https://drive.google.com/file/d/1xLs5AxeTm2m8vy6alJ4Q3xuxmIBgvST-/view?usp=shari
 https://drive.google.com/file/d/1pD_7_Tkw5UkV9BPQB5f8tWE8sipMtV0A/view?usp=sharing
 
 # ERD DayCare
+![ERD Daycare](https://github.com/SULISAFRYANTI/Tugas-Individu-29-Mei-2024/assets/145976767/0a9c027b-8c0d-4546-98aa-dfa5d7101005)
